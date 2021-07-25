@@ -5,12 +5,11 @@
 <p align="center">I'm Max.</p>
 
 <p align="center">
-	<a href="https://twitter.com/maxxxxxdlp1">Twitter</a> &#8226; 
-	<a href="https://www.linkedin.com/in/maksym-patiiuk/">LinkedIn</a> &#8226; 
-	<a href="https://www.instagram.com/mambo_youtube/">Instagram</a>
+	<a href="https://linkedin.patii.uk">LinkedIn</a> &#8226; 
+	<a href="https://twitter.patii.uk">Twitter</a> &#8226; 
+	<a href="https://instagram.patii.uk">Instagram</a>
 </p>
 
 <h3 align="center">
-	Sit back and enjoy your problems.<br>
-	You don't always have to solve them!
+	Find beauty in simplicity
 </h3>
