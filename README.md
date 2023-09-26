@@ -10,6 +10,6 @@
 	<a href="https://instagram.patii.uk">Instagram</a>
 </p>
 
-<h3 align="center">
+<p align="center">
 	Find beauty in simplicity
-</h3>
+</p>
