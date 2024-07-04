@@ -1,6 +1,4 @@
-Note: my GitHub username recently changed from @maxxxxxdlp
-
-![Hi there!](https://raw.githubusercontent.com/maxpatiiuk/maxpatiiuk/main/img/github_profile_banner.jpg)
+![Hi there!](https://raw.githubusercontent.com/maxpatiiuk/maxpatiiuk/main/img/github-profile-banner.webp)
 
 <h1 align="center"> Hi! :wave:</h1>
 
